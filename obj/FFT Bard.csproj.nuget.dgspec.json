@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\FFT Bard.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\FFT Bard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\FFT Bard.csproj",
+        "projectName": "FFT Bard",
+        "projectPath": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\FFT Bard.csproj",
+        "packagesPath": "C:\\Users\\Justin Marshall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Justin Marshall\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

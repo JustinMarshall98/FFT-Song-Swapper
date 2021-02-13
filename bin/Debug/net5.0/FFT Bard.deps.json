@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FFT Bard/1.0.0": {
+        "runtime": {
+          "FFT Bard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FFT Bard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

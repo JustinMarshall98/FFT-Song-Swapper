@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patches>
+  <Patch name="Swap Formation Screen Music">
+    <Location file="WORLD_WORLD_BIN" offset="338C8">17</Location>
+  </Patch>
+</Patches>
