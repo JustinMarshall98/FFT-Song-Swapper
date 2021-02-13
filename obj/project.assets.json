@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\FFT Bard.csproj",
+      "projectUniqueName": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT-Song-Swapper\\FFT Bard.csproj",
       "projectName": "FFT Bard",
-      "projectPath": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\FFT Bard.csproj",
+      "projectPath": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT-Song-Swapper\\FFT Bard.csproj",
       "packagesPath": "C:\\Users\\Justin Marshall\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT Bard\\obj\\",
+      "outputPath": "C:\\Users\\Justin Marshall\\Desktop\\FFT Modding\\My Modding Programs\\FFT-Song-Swapper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Justin Marshall\\AppData\\Roaming\\NuGet\\NuGet.Config"

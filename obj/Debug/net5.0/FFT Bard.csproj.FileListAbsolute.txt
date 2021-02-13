@@ -14,3 +14,19 @@ C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT Bard\obj\De
 C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT Bard\obj\Debug\net5.0\ref\FFT Bard.dll
 C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT Bard\obj\Debug\net5.0\FFT Bard.pdb
 C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT Bard\obj\Debug\net5.0\FFT Bard.genruntimeconfig.cache
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\bin\Debug\net5.0\FFT Bard.exe
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\bin\Debug\net5.0\FFT Bard.deps.json
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\bin\Debug\net5.0\FFT Bard.runtimeconfig.json
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\bin\Debug\net5.0\FFT Bard.runtimeconfig.dev.json
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\bin\Debug\net5.0\FFT Bard.dll
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\bin\Debug\net5.0\ref\FFT Bard.dll
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\bin\Debug\net5.0\FFT Bard.pdb
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.csprojAssemblyReference.cache
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.AssemblyInfoInputs.cache
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.AssemblyInfo.cs
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.csproj.CoreCompileInputs.cache
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.dll
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\ref\FFT Bard.dll
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.pdb
+C:\Users\Justin Marshall\Desktop\FFT Modding\My Modding Programs\FFT-Song-Swapper\obj\Debug\net5.0\FFT Bard.genruntimeconfig.cache
