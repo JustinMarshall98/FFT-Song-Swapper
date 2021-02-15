@@ -9,15 +9,15 @@ namespace FFT_Bard
 {
     //Offsets:
     //In WORLD_WORLD_BIN
-    //Formation Screen: 338C8
+    //Party Screen: 338C8
     //Memory Card Menu: 4F2D4
     //The following have their song ID set to r19 earlier than the above (IE way before the jal)
     //Shop: 535F4
     //Soldier's Office: 535D0
     //Fur Shop: 535B0
 
-    //These use a different jal than the first I found:
-    //Pub, Brave Story, World Map, Tutorial
+    //The following require changes to WLDCORE, not WORLD
+    //Pub, Brave Story, World Map, Tutorial, Formation Screen
 
     //Title screen uses song based on currently playing Movie (STR)
     class Program
@@ -28,7 +28,7 @@ namespace FFT_Bard
             {
             string xmlUpper = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n" +
             "<Patches>\n" +
-            "  <Patch name=\"Swap Formation Screen Music\">\n" +
+            "  <Patch name=\"Swap Music\">\n" +
             "    <Location file=\"WORLD_WORLD_BIN\" offset=\"";
 
             string xmlMiddle = "\">";
@@ -39,7 +39,7 @@ namespace FFT_Bard
 
             Console.WriteLine("Welcome to FFT-Song-Swapper!\nThis program generates xml files that allow you to swap songs in various places in FFT (ps1 only)");
             Console.WriteLine("Please select the number of the area you'd like to change the song of:\n" +
-            "(1) Formation Screen\n" +
+            "(1) Party Screen\n" +
             "(2) Memory Card Menu\n" +
             "(3) Shop\n" +
             "(4) Soldier's Office\n" +
@@ -61,7 +61,7 @@ namespace FFT_Bard
 
             switch(area){
                 case "1":
-                    areaName = "Formation Screen";
+                    areaName = "Party Screen";
                     offset = "338C8";
                     break;
                 case "2":
