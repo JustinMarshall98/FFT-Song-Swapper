@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patches>
+  <Patch name="Swap Music">
+    <Description>
+      Change the songs that play in the following locations: Party Screen, Shop, Soldier's Office, Fur Shop, Memory Card Menu.
+      ID is in hexadecimal. Refer to wiki for complete list.
+    </Description>
+    <Variable name="Memory Card Menu" file="WORLD_WORLD_BIN" offset="4F2D4" bytes="1" default="29" />
+    <Variable name="Party Screen" file="WORLD_WORLD_BIN" offset="338C8" bytes="1" default="1F" />
+    <Variable name="Shop" file="WORLD_WORLD_BIN" offset="535F4" bytes="1" default="1C" />
+    <Variable name="Soldier's Office" file="WORLD_WORLD_BIN" offset="535D0" bytes="1" default="1D" />
+    <Variable name="Fur Shop" file="WORLD_WORLD_BIN" offset="535B0" bytes="1" default="1E" />
+  </Patch>
+</Patches>

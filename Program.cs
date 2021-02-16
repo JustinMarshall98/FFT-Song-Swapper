@@ -18,6 +18,8 @@ namespace FFT_Bard
 
     //The following require changes to WLDCORE, not WORLD
     //Pub, Brave Story, World Map, Tutorial, Formation Screen
+    //Formation Screen has BATTLE.BIN loaded instead of WORLD.BIN
+    //This means that logical music change structure probably needs to take place in SCUS
 
     //Title screen uses song based on currently playing Movie (STR)
     class Program
